@@ -29,7 +29,7 @@ una vez instalado el programa debe ejecutar el programa con la ruta del archivo 
 	
 para ingresar a la aplciacion web en heroku acceda por medio del link
 
-    [despliegue en heroku](https://quiet-temple-36803.herokuapp.com/inputdata)
+[despliegue en heroku](https://quiet-temple-36803.herokuapp.com/inputdata)
 
  
 # DESPLEIGUE
@@ -122,7 +122,7 @@ Los resultados de las pruebas son los esperados con los de la guia.
 
 para consultar el reporte debe acceder al link 
 
-[reporte de laboratorio](https://github.com/danielGomez1703/ARSW-OODesign/blob/master/resources/SparkReport.pdf)
+[reporte de laboratorio](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/SparkReport.pdf)
 
 ## Author
     Daniel Felipe Gomez Suarez [danielgomez1703](https://github.com/danielGomez1703)
