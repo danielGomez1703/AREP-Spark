@@ -37,7 +37,7 @@ esta es la imagen del inicio, donde el ususario va a ingresar los datos a promed
 ![Inicio](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/inicio.JPG)
 
 una vez entregados los valores se daran a conocer lso resultados de la media y de la desviacion estandar.
-![resultado](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/resultado.JPG)
+![resultado](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/resultado.JPG )
 
     
 ## Modelo
