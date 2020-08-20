@@ -37,7 +37,7 @@ esta es la imagen del inicio, donde el ususario va a ingresar los datos a promed
 ![Inicio](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/inicio.JPG)
 
 una vez entregados los valores se daran a conocer lso resultados de la media y de la desviacion estandar.
-![resultado](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/resultado.JPG )
+![resultado](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/resultado.JPG)
 
     
 ## Modelo
@@ -122,7 +122,7 @@ Los resultados de las pruebas son los esperados con los de la guia.
 
 para consultar el reporte debe acceder al link 
 
-[reporte de laboratorio](https://github.com/danielGomez1703/ARSW-OODesign/blob/master/resources/Design_OO.pdf)
+[reporte de laboratorio](https://github.com/danielGomez1703/ARSW-OODesign/blob/master/resources/SparkReport.pdf)
 
 ## Author
     Daniel Felipe Gomez Suarez [danielgomez1703](https://github.com/danielGomez1703)
