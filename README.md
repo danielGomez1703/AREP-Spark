@@ -1,10 +1,10 @@
 # Spark-Web
 
-# DESPLEIGUE
-esta es la imagen del inicio, donde el ususario va a ingresar los datos a promediar
-![Inicio](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/inicio.JPG)
-este programa calcula la media y la desviacion estandar de los datos ingresados por archivo.
-estos datos deben cargarse a la ruta  dispuesta para ello.
+# Despliegue & CI
+
+para ingresar a la aplciacion web en heroku acceda por medio del link
+
+[despliegue en heroku](https://quiet-temple-36803.herokuapp.com/inputdata)
 
 [![CircleCI](https://circleci.com/gh/danielGomez1703/AREP-Spark.svg?style=svg)](https://circleci.com/gh/danielGomez1703/AREP-Spark)
 
@@ -35,12 +35,14 @@ una vez instalado el programa debe ejecutar el programa con la ruta del archivo 
  
     java -cp -cp target/classes:target/dependency/* co.edu.eci.arep.lab1.sparkweb.App
 	
-para ingresar a la aplciacion web en heroku acceda por medio del link
 
-[despliegue en heroku](https://quiet-temple-36803.herokuapp.com/inputdata)
 
  
-
+# DESPLEIGUE
+esta es la imagen del inicio, donde el ususario va a ingresar los datos a promediar
+![Inicio](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/inicio.JPG)
+este programa calcula la media y la desviacion estandar de los datos ingresados por archivo.
+estos datos deben cargarse a la ruta  dispuesta para ello.
 
 una vez entregados los valores se daran a conocer lso resultados de la media y de la desviacion estandar.
 ![resultado](https://github.com/danielGomez1703/AREP-Spark/blob/master/resources/resultado.JPG)
