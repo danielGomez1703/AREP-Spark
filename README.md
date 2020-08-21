@@ -3,7 +3,7 @@
 # Despliegue & CI
 
 para ingresar a la aplciacion web en heroku acceda por medio del link
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quiet-temple-36803.herokuapp.com/inputdata)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quiet-temple-36803.herokuapp.com/)
 
 [despliegue en heroku](https://quiet-temple-36803.herokuapp.com/inputdata)
 
